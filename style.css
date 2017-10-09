@@ -1,0 +1,164 @@
+
+@import url('https://s3.amazonaws.com/assets.mockflow.com/app/styleguide/company/Ccc483f21e64e41199f504e4d14b4dec5/projects/c9dc567be10837d180a872c0b845a66e/fonts/fc2881b718523100e862563889ca3746.css');
+@import url('https://s3.amazonaws.com/assets.mockflow.com/app/styleguide/company/Ccc483f21e64e41199f504e4d14b4dec5/projects/c9dc567be10837d180a872c0b845a66e/fonts/141b45ec248f9e34faf09f77101b8ada.css');
+@import url('https://s3.amazonaws.com/assets.mockflow.com/app/styleguide/company/Ccc483f21e64e41199f504e4d14b4dec5/projects/c9dc567be10837d180a872c0b845a66e/fonts/cbbdd77fb6edb6b47b0c97978c82f930.css');
+@import url('https://s3.amazonaws.com/assets.mockflow.com/app/styleguide/company/Ccc483f21e64e41199f504e4d14b4dec5/projects/c9dc567be10837d180a872c0b845a66e/fonts/ecef590785adaeb2d93a04b9275f3d6e.css');
+@import url('https://s3.amazonaws.com/assets.mockflow.com/app/styleguide/company/Ccc483f21e64e41199f504e4d14b4dec5/projects/c9dc567be10837d180a872c0b845a66e/fonts/b7779823e5c1a7e71ff8b45806fa2da8.css');
+@import url('https://s3.amazonaws.com/assets.mockflow.com/app/styleguide/company/Ccc483f21e64e41199f504e4d14b4dec5/projects/c9dc567be10837d180a872c0b845a66e/fonts/e33ac2e325baf1e913bef21deccf26a6.css');
+@import url('https://s3.amazonaws.com/assets.mockflow.com/app/styleguide/company/Ccc483f21e64e41199f504e4d14b4dec5/projects/c9dc567be10837d180a872c0b845a66e/fonts/3776890dfbea931a92f6f54b25a043bf.css');
+body {
+	background-color:#ffffff;
+	-webkit-font-smoothing: antialiased;
+	-moz-font-smoothing: antialiased;
+}
+.main{
+	position:relative;
+	margin:0 auto;
+	width:100%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    padding-left: 650px;
+    padding-top: 19.5px;
+}
+
+li {
+    float: left;
+}
+
+li a {
+	font-family: HelveticaNeue;
+  	font-size: 15px;
+  	text-align: center;
+  	color: #444444;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.button1 {
+	border: none;
+	border-radius: 50px;
+	border-color: #e66700;
+  	background-color: #e66700;
+  	color: #ffffff;
+  	padding: 10px 32px;
+    text-decoration: none;
+    font-size: 15px;
+
+    font-family: HelveticaNeue;
+  	font-weight: 500;
+  	text-align: center;
+}
+
+img {
+    width: auto;
+    height: auto;
+}
+.edificios {
+  width: 100%;
+  height: 100%;
+}
+
+.vende {
+	position: absolute; 
+   top: 150px; 
+   text-align: center; 
+   width: 100%;
+   font-family: HelveticaNeue;
+  font-size: 56px;
+  font-weight: 500;
+  line-height: 0.96;
+  letter-spacing: 1.5px;
+  text-align: center;
+  color: #ffffff;  
+}
+
+.sin-comision {
+	position: absolute; 
+   top: 230px; 
+   text-align: center; 
+   width: 100%;
+   font-family: HelveticaNeue;
+  font-size: 36px;
+  font-weight: 100;
+  line-height: 0.96;
+  letter-spacing: 1.5px;
+  text-align: center;
+  color: #ffffff;  
+}
+
+p span { 
+   background: transparent;
+   background: transparent;
+}
+
+.como-funciona {
+  font-family: HelveticaNeue-Bold;
+  font-size: 24px;
+   font-weight: bold;
+  text-align: center;
+  color: #484848;
+}
+
+.w3-table td, .w3-table th, .w3-table-all td, .w3-table-all t{
+	text-align: center !important;
+}
+.table{
+	padding-left: 400px;
+	padding-right: 400px;
+
+}
+
+.titulo{
+	font-family: HelveticaNeue;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: -0.2px;
+  color: #4a4a4a;
+}
+.parrafo{
+	font-family: HelveticaNeue;
+  font-size: 13px;
+  font-weight: 700;
+  color: #e66700;
+}
+
+.parrafo2{
+	 font-family: HelveticaNeue;
+  font-size: 13px;
+  font-weight: 700;
+  color: #aaaaaa;
+}
+
+.logo {
+  width: 30%;
+  height: auto;
+}
+
+.manos {
+  width: 40%;
+  height: auto;
+  align-items: center;
+}
+
+.costo {
+  font-family: HelveticaNeue;
+  font-size: 13px;
+  font-weight: 300;
+  text-align: center;
+  color: #e66700;
+}
+
+.comision{
+	font-family: HelveticaNeue;
+  	font-size: 13px;
+  	font-weight: 300;
+  	text-align: center;
+  	color: #aaaaaa;
+}
